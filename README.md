@@ -1,8 +1,6 @@
 # 🤖 AI Policy Compliance Checker
 **with CrewAI Multi-Agent System**
 
-🌐 **See the Live Application**: [https://ai-policy-compliance-checker.vercel.app/](https://ai-policy-compliance-checker.vercel.app/)
-
 > **Transform opaque policies into clear, AI-audited compliance reports. Use multi-agent CrewAI systems with RAG over internal documents to surface risks, missing controls, and actionable remediation plans—instantly and accurately.** ⚡
 
 ---
@@ -168,8 +166,6 @@
 ---
 
 
----
-
 ## 🛣️ Roadmap
 
 ### Current (MVP) ✅
@@ -224,14 +220,6 @@
 
 ---
 
-## 📞 Support
-
-- 🐛 **Issues**: [GitHub Issues](https://github.com/derril-tech/ai-policy-compliance-checker/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/derril-tech/ai-policy-compliance-checker/discussions)
-- 📧 **Email**: [Your Support Email]
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -239,8 +227,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-
-
 
 Made with ❤️ and ☕ by [Derril Filemon](https://github.com/derril-tech)
 
